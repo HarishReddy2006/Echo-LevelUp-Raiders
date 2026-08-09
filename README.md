@@ -8,10 +8,12 @@ Built for the **LevelUp Game Hackathon 2026 (Gamnexis)** by **Team LevelUp Raide
 
 ## 🎮 Play Echo
 
-**▶ Play the game online:**
+### ▶ Play the Game Online
+
 https://harishreddy2006.github.io/Echo-LevelUp-Raiders/
 
-**📦 GitHub Repository:**
+### 📦 GitHub Repository
+
 https://github.com/HarishReddy2006/Echo-LevelUp-Raiders
 
 ---
@@ -30,15 +32,15 @@ https://github.com/HarishReddy2006/Echo-LevelUp-Raiders
 
 **Echo** is a sonar puzzle-platformer where the player navigates through complete darkness using brief pulses of light.
 
-Press **Space** to emit an echo pulse. The pulse temporarily reveals nearby platforms, hazards, enemies, and other elements before fading back into darkness.
+Press **Space** to emit an Echo Pulse. The pulse temporarily reveals nearby platforms, hazards, enemies, and other important elements before fading back into darkness.
 
 The player must observe, memorize the environment, and carefully move forward based on what they have seen.
 
-The game features **3 progressively challenging levels**:
+The game features **3 progressively challenging levels**.
 
 ### Level 1 — First Light
 
-Pure navigation with no threats. Players learn and understand the echo mechanic.
+Pure navigation with no threats. Players learn and understand the Echo mechanic.
 
 ### Level 2 — Something Listens
 
@@ -52,9 +54,9 @@ A limited pulse-energy system forces the player to carefully manage every reveal
 
 ## 🎯 Objective
 
-Navigate through the dark environment, use echo pulses strategically, avoid hazards and enemies, and reach the goal of each level.
+Navigate through the dark environment, use Echo Pulses strategically, avoid hazards and enemies, and reach the goal of each level.
 
-The challenge is not simply seeing the path — it is deciding **when to see it**.
+> **The challenge is not simply seeing the path — it is deciding when to see it.**
 
 ---
 
@@ -65,21 +67,22 @@ The challenge is not simply seeing the path — it is deciding **when to see it*
 | `Arrow Keys` / `WASD` | Move                         |
 | `Up` / `W`            | Jump                         |
 | `Space`               | Emit Echo Pulse              |
-| `R`                   | Play Again on the win screen |
+| `R`                   | Play Again on the Win Screen |
 
 ---
 
 ## ✨ Key Features
 
-* **Dynamic Echo Vision** — The player reveals the surrounding environment through temporary pulses.
-* **Phaser 3 Lights2D** — Uses Phaser 3's lighting pipeline for the reveal effect.
+* **Dynamic Echo Vision** — Temporarily reveal the surrounding environment through Echo Pulses.
+* **Phaser 3 Lights2D** — Uses Phaser's lighting pipeline for the reveal effect.
 * **Procedural Visuals** — Player, platforms, enemies, hazards, and goal elements are generated through canvas gradients.
 * **Animated Title Screen** — Expanding pulse rings and a glowing game logo.
 * **Atmospheric Effects** — Ambient dust particles and a soft vignette.
-* **Pulse Feedback** — Particle bursts and camera shake when an echo pulse is emitted.
+* **Pulse Feedback** — Particle bursts and camera shake when an Echo Pulse is emitted.
 * **Sound-Reactive Enemy AI** — Enemies transition from idle patrol to active chase when alerted.
 * **Pulse Energy System** — Limited energy creates a risk/reward decision around every pulse.
-* **Styled HUD** — Includes level progress and pulse-energy information.
+* **Styled HUD** — Displays level progress and pulse-energy information.
+* **Game Audio** — Audio and sound effects enhance the atmosphere and provide gameplay feedback.
 * **Instant Browser Play** — No installation or build process is required.
 
 ---
@@ -98,7 +101,7 @@ No external image assets are required for the game's visual elements.
 
 ---
 
-## 🚀 Run It Locally
+## 🚀 Run Locally
 
 No build step is required.
 
@@ -118,7 +121,7 @@ Then open the localhost URL displayed in the terminal.
 
 ---
 
-## 🌐 Play Online
+## 🌐 Deployment
 
 The game is deployed using **GitHub Pages**.
 
@@ -136,7 +139,7 @@ https://github.com/HarishReddy2006/Echo-LevelUp-Raiders
 
 ```text
 Echo-LevelUp-Raiders/
-├── index.html      # Complete game, Phaser scenes, level data and game logic
+├── index.html      # Game logic, Phaser scenes, level data and implementation
 └── README.md       # Project documentation
 ```
 
@@ -148,7 +151,7 @@ AI tools were used during the development and preparation of this project.
 
 **AI Tool Used:** Claude (Anthropic)
 
-**Purpose of Usage:**
+### Purpose of Usage
 
 * Brainstorming and refining the core game concept
 * Structuring the project proposal
@@ -182,6 +185,6 @@ All game visuals are original or procedurally generated within the project. The 
 
 ## ❤️ Team LevelUp Raiders
 
-**See the world. Remember the world. Move through the dark.**
+> **See the world. Remember the world. Move through the dark.**
 
 **Echo — A sonar puzzle-platformer told entirely in the dark.**
